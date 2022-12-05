@@ -1,0 +1,87 @@
+[
+    {
+        "desc": "El taco es una preparación culinaria muy popular de México que consiste en una tortilla, generalmente de maíz, que comúnmente se enrolla para contener dentro diversos ingredientes y algún tipo de salsa. Es el antojo más representativo de la cocina mexicana.",
+        "id": "P001",
+        "img": "https://images.unsplash.com/photo-1511690078903-71dc5a49f5e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dGFjb3MlMjBtZXhpY2Fub3N8ZW58MHwxfDB8fA%3D%3D&auto=format&fit",
+        "ingredients": [
+            "Tostadas",
+            "palta",
+            "choclo",
+            "poroto negro",
+            "carne, pollo y chorizo",
+            "Cilantro, cebolla y limón"
+        ],
+        "name": "Tacos Surtidos",
+        "price": 10490
+    },
+    {
+        "desc": "Las enchiladas es un típico plato mexicano que se elabora con tortilla de maíz, bañada en una salsa picante ya que utiliza chile en su preparación están rellenas de pollo, deshebrado con papa, queso y picadillo.",
+        "id": "P002",
+        "img": "https://images.pexels.com/photos/12097599/pexels-photo-12097599.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "Tortilla de maíz",
+            "Chile",
+            "Nata",
+            "Jitomate",
+            "Pollo"
+        ],
+        "name": "Enchiladas",
+        "price": 11990
+    },
+    {
+        "desc": "La tortilla mexicana es el símbolo y la tradición más antigua de la cocina mexicana. Este alimento es, sin duda, protagonista de los platillos mexicanos junto con el chile, una combinación que representa a la mexicanidad.",
+        "id": "P003",
+        "img": "https://images.pexels.com/photos/12034452/pexels-photo-12034452.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "ingredients": [
+            "Tortilla de maíz",
+            "Guacamole",
+            "Choclo",
+            "Chile",
+            "Nata",
+            "Picadillo de tomate, cebolla y cilantro"
+        ],
+        "name": "Tortitllas",
+        "price": 9990
+    },
+    {
+        "desc": "El Tequila José Cuervo Especial Reposado es el tequila No.1 en el mundo, representante de México en más de 90 países. Es considerado un excelente mezclador. Sabor: Dulce y suave. Ideal para mezclar en Margaritas, Vampiros, o con refresco de manzana",
+        "id": "P004",
+        "img": "https://images.unsplash.com/photo-1516535794938-6063878f08cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+        "ingredients": [
+            "Agua desmineralizada",
+            "agave"
+        ],
+        "name": "Tequila Jose Cuervo",
+        "price": 6500
+    },
+    {
+        "desc": "El cóctel margarita es el cóctel elaborado a base de tequila más popular del mundo, se emplean únicamente tres ingredientes: tequila, zumo de limón y Triple Sec, sin olvidar el hielo y el toque de sal en el borde de la copa. Sin embargo, aunque la receta es sencilla es muy fácil estropear el resultado final. ¿Por qué? Porque el secreto para preparar el margarita perfecta es que los tres ingredientes sean de muy buena calidad.",
+        "id": "P005",
+        "img": "https://www.culinaryhill.com/wp-content/uploads/2022/02/Margarita-Culinary-Hill-HR-04.jpg",
+        "ingredients": [
+            "Tequila",
+            "Triple seco",
+            "Zumo de lima",
+            "Hielo",
+            "Sal"
+        ],
+        "name": "Tequila Margarita",
+        "price": 5500
+    },
+    {
+        "desc": "En su receta original más básica la Michelada es un cóctel sencillo que se prepara con cerveza rubia, jugo natural de limón o lima, un toque de picante y sal. El origen más aceptado del nombre nos lleva a la palabra ‘chela’, que es como llaman en México a la cerveza. ‘Mi chela helada’ resumiría a la perfección las sensaciones que experimentas cuando pruebas esta deliciosa bebida.",
+        "id": "P006",
+        "img": "https://ep01.epimg.net/elcomidista/imagenes/2012/08/23/receta/1345698000_134569_1345698000_noticia_normal.jpg",
+        "ingredients": [
+            "Cerveza",
+            "Limón",
+            "Sal",
+            "Chile en polvo o pimienta",
+            "Salsa tipo inglesa",
+            "Tabasco",
+            "Hielo"
+        ],
+        "name": "Michelada",
+        "price": 45000
+    }
+]
